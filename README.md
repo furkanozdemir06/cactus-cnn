@@ -8,7 +8,7 @@ The project includes:
 
 - Image dataset exploration
 - Data augmentation
-- Class imbalance handling
+- Class imbalance handling 
 - ResNet50 transfer learning
 - Fine-tuning
 - Test-set prediction
